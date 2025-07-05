@@ -32,3 +32,9 @@ function section() {
 }
 
 section();
+
+function QR() {
+  console.log("QR created");
+}
+
+QR();
