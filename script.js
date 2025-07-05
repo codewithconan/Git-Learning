@@ -20,3 +20,9 @@ function payment() {
 }
 
 payment();
+
+function UPI() {
+  console.log("UPI created");
+}
+
+UPI();
