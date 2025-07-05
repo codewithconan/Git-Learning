@@ -26,3 +26,9 @@ function UPI() {
 }
 
 UPI();
+
+function section() {
+  console.log("section created");
+}
+
+section();
