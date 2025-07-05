@@ -26,3 +26,9 @@ function UPI() {
 }
 
 UPI();
+
+function QR() {
+  console.log("QR created");
+}
+
+QR();
