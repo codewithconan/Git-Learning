@@ -1,3 +1,13 @@
+function newFeature() {
+  console.log("Features added");
+}
+newFeature();
+
+function newFeature2() {
+  console.log("More Features added");
+}
+newFeature2();
+
 function button() {
   console.log("button created");
 }
