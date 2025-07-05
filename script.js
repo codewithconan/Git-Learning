@@ -9,3 +9,9 @@ function input() {
 }
 
 input();
+
+function footer() {
+  console.log("footer created");
+}
+
+footer();
