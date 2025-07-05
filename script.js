@@ -15,3 +15,8 @@ function footer() {
 }
 
 footer();
+function payment() {
+  console.log("payment created");
+}
+
+payment();
