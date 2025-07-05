@@ -3,3 +3,9 @@ function button() {
 }
 
 button();
+
+function input() {
+  console.log("input created");
+}
+
+input();
