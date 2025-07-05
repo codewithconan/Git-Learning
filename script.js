@@ -38,3 +38,6 @@ function QR() {
 }
 
 QR();
+
+let newUpdate = "King is King";
+console.log(newUpdate);
