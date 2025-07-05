@@ -3,6 +3,11 @@ function newFeature() {
 }
 newFeature();
 
+function newFeature3() {
+  console.log("More Features added");
+}
+newFeature3();
+
 function newFeature2() {
   console.log("More Features added");
 }
